@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "5fd4f9f13827000010001c2d"
+  },
+  "Nama": "Dr. Mahmud Cahyadi Sp.Dalam",
+  "Email": "mahmudcahyadi@gmail.com",
+  "Password": "827ccb0eea8a706c4c34a16891f84e7b",
+  "Specialist": "Jantung",
+  "Type": "doktor",
+  "Hari": [
+    "Senin",
+    "Selasa",
+    "Kamis",
+    "Sabtu"
+  ],
+  "Jam": [
+    "12.00-18.00",
+    "12.00-17.00",
+    "08.00-13.00",
+    "10.00-12.00"
+  ]
+},{
+  "_id": {
+    "$oid": "5fd4faa73827000010001c2e"
+  },
+  "Nama": "Dr. Shannon Wong",
+  "Email": "Shannon@lifecare.com",
+  "Password": "e10adc3949ba59abbe56e057f20f883e",
+  "Specialist": "Saraf",
+  "Type": "doktor",
+  "Hari": [
+    "Senin",
+    "Rabu",
+    "Kamis"
+  ],
+  "Jam": [
+    "12.00-17.00",
+    "12.00-15.00",
+    "12.00-17.00"
+  ]
+},{
+  "_id": {
+    "$oid": "5fd4faf73827000010001c2f"
+  },
+  "Nama": "Dr. Vania Jessica",
+  "Email": "vanjes@lifecare.com",
+  "Password": "e10adc3949ba59abbe56e057f20f883e",
+  "Specialist": "Organ Dalam",
+  "Type": "doktor",
+  "Hari": [
+    "Rabu",
+    "Kamis"
+  ],
+  "Jam": [
+    "12.00-15.00",
+    "23.00-24.00"
+  ]
+},{
+  "_id": {
+    "$oid": "5fd4fb5b3827000010001c30"
+  },
+  "Nama": "Dr. Ansellma Putri",
+  "Email": "ansel@lifecare.com",
+  "Password": "e10adc3949ba59abbe56e057f20f883e",
+  "Specialist": "Otak",
+  "Type": "doktor",
+  "Hari": [
+    "Senin",
+    "Rabu",
+    "Kamis"
+  ],
+  "Jam": [
+    "12.00-15.00",
+    "12.00-17.00",
+    "23.00-24.00"
+  ]
+},{
+  "_id": {
+    "$oid": "5fd5007c3827000010001c31"
+  },
+  "Nama": "brein",
+  "Umur": "20",
+  "NoTelp": "081232434535",
+  "Alamat": "Jalan Dipatiukur",
+  "Email": "bren@gmail.com",
+  "Password": "01cfcd4f6b8770febfb40cb906715822",
+  "Type": "pasien"
+},{
+  "_id": {
+    "$oid": "5fd5055a3827000010001c32"
+  },
+  "Nama": "Ryuga",
+  "Umur": "25",
+  "NoTelp": "081243243543",
+  "Alamat": "Jalan Ujung Berung City",
+  "Email": "ryugamayceline@gmail.com",
+  "Password": "827ccb0eea8a706c4c34a16891f84e7b",
+  "Type": "pasien"
+},{
+  "_id": {
+    "$oid": "5fd512db3827000010001c33"
+  },
+  "Nama": "Nathan",
+  "Umur": "23",
+  "NoTelp": "0812341241",
+  "Alamat": "Jalan Cimahi",
+  "Email": "nathan@gmail.com",
+  "Password": "202cb962ac59075b964b07152d234b70",
+  "Type": "pasien"
+},{
+  "_id": {
+    "$oid": "5fd579fad8500000fe000b13"
+  },
+  "Nama": "admin",
+  "Email": "admin@life.care",
+  "Password": "21232f297a57a5a743894a0e4a801fc3",
+  "Type": "admin"
+},{
+  "_id": {
+    "$oid": "5fd5dea2af0f00007700567f"
+  },
+  "Nama": "stefanus",
+  "Umur": "10",
+  "NoTelp": "0814214214114",
+  "Alamat": "Jalan Cimahi Selatan No.10",
+  "Email": "stefanus@gmail.com",
+  "Password": "202cb962ac59075b964b07152d234b70",
+  "Type": "pasien"
+}]

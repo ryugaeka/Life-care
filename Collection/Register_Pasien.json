@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "5fd5d0e1af0f00007700566b"
+  },
+  "IdDoktor": "5fd4f9f13827000010001c2d",
+  "IdPasien": "5fd5007c3827000010001c31",
+  "NamaPasien": "brein",
+  "Gejala": "Covid",
+  "Waktu": "2",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "5fd5ddf2af0f00007700567c"
+  },
+  "IdDoktor": "5fd4f9f13827000010001c2d",
+  "IdPasien": "5fd5055a3827000010001c32",
+  "NamaPasien": "Ryuga",
+  "Gejala": "Batuk berdarah",
+  "Waktu": "2",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "5fd5ded0af0f000077005680"
+  },
+  "IdDoktor": "5fd4faf73827000010001c2f",
+  "IdPasien": "5fd5dea2af0f00007700567f",
+  "NamaPasien": "stefanus",
+  "Gejala": "Batuk sesak",
+  "Waktu": "1",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "5fd5eb36af0f000077005694"
+  },
+  "IdDoktor": "5fd4faf73827000010001c2f",
+  "IdPasien": "5fd5007c3827000010001c31",
+  "NamaPasien": "brein",
+  "Gejala": "Batuk kering",
+  "Waktu": "1",
+  "status": 1
+}]

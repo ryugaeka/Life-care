@@ -1,0 +1,11 @@
+Alamat,Email,Hari,Jam,Nama,NoTelp,Password,Specialist,Type,Umur,_id
+,mahmudcahyadi@gmail.com,"[""Senin"",""Selasa"",""Kamis"",""Sabtu""]","[""12.00-18.00"",""12.00-17.00"",""08.00-13.00"",""10.00-12.00""]",Dr. Mahmud Cahyadi Sp.Dalam,,827ccb0eea8a706c4c34a16891f84e7b,Jantung,doktor,,5fd4f9f13827000010001c2d
+,Shannon@lifecare.com,"[""Senin"",""Rabu"",""Kamis""]","[""12.00-17.00"",""12.00-15.00"",""12.00-17.00""]",Dr. Shannon Wong,,e10adc3949ba59abbe56e057f20f883e,Saraf,doktor,,5fd4faa73827000010001c2e
+,vanjes@lifecare.com,"[""Rabu"",""Kamis""]","[""12.00-15.00"",""23.00-24.00""]",Dr. Vania Jessica,,e10adc3949ba59abbe56e057f20f883e,Organ Dalam,doktor,,5fd4faf73827000010001c2f
+,ansel@lifecare.com,"[""Senin"",""Rabu"",""Kamis""]","[""12.00-15.00"",""12.00-17.00"",""23.00-24.00""]",Dr. Ansellma Putri,,e10adc3949ba59abbe56e057f20f883e,Otak,doktor,,5fd4fb5b3827000010001c30
+Jalan Dipatiukur,bren@gmail.com,,,brein,081232434535,01cfcd4f6b8770febfb40cb906715822,,pasien,20,5fd5007c3827000010001c31
+Jalan Ujung Berung City,ryugamayceline@gmail.com,,,Ryuga,081243243543,827ccb0eea8a706c4c34a16891f84e7b,,pasien,25,5fd5055a3827000010001c32
+Jalan Cimahi,nathan@gmail.com,,,Nathan,0812341241,202cb962ac59075b964b07152d234b70,,pasien,23,5fd512db3827000010001c33
+,admin@life.care,,,admin,,21232f297a57a5a743894a0e4a801fc3,,admin,,5fd579fad8500000fe000b13
+Jalan Cimahi Selatan No.10,stefanus@gmail.com,,,stefanus,0814214214114,202cb962ac59075b964b07152d234b70,,pasien,10,5fd5dea2af0f00007700567f
+Sukamenak,joy@gmail.com,,,yobel,081323123132,c2c8e798aecbc26d86e4805114b03c51,,pasien,20,5fec0211e0720000ca002953
